@@ -17,7 +17,7 @@
     <!--Modal Form-->
     <div
       v-if="showModal"
-      class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50"
+      class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50"
     >
       <div class="modal-content bg-white rounded-lg p-6 w-full max-w-[500px]">
         <h3 class="text-xl font-bold mb-4">
