@@ -1,6 +1,8 @@
 # ToDoList-Vue
 
-ToDoList-Vue is a task management application built with Vue.js. This app allows users to add, edit, and delete tasks. Task data is stored using Firebase as the backend.
+![alt text](image-1.png)
+
+ToDoList-Vue is a simple task management application built with Vue.js. This app allows users to add, edit, and delete tasks. Task data is stored using Firebase as the backend.
 
 ## Features
 

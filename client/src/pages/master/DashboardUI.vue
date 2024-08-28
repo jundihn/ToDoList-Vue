@@ -10,7 +10,7 @@
       >
         <div class="px-[20px] cursor-pointer">
           <router-link to="/">
-            <h3 class="font-bold text-xl">Trello Workspace</h3>
+            <h3 class="font-bold text-xl">Trillo Workspace</h3>
           </router-link>
         </div>
 
